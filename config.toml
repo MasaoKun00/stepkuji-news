@@ -2,8 +2,10 @@ baseURL = "https://MasaoKun00.github.io/stepkuji-news/"
 languageCode = "ja"
 title = "ステップくじ | 運営からのお知らせ"
 theme = "PaperMod"
-pagerSize = 10
 defaultContentLanguage = "ja"
+
+[pagination]
+  pagerSize = 10
 
 [params]
   defaultTheme = "auto"
@@ -16,6 +18,3 @@ defaultContentLanguage = "ja"
     name = "すべての記事"
     url = "/archives"
     weight = 10
-
-[outputs]
-  home = ["HTML","RSS","JSON"]
