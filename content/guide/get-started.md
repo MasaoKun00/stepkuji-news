@@ -5,6 +5,7 @@ date: 2025-11-05
 lastmod: 2025-11-05
 weight: 10
 tags: ["使い方", "ガイド"]
+draft: false
 ---
 
 ## ステップくじのゴール
