@@ -4,10 +4,6 @@ title = "ステップくじ | 運営からのお知らせ"
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
-
 [pagination]
   pagerSize = 10
 
@@ -16,10 +12,6 @@ defaultContentLanguage = "ja"
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   homeInfoParams = { Title = "運営からのお知らせ", Content = "更新・抽選結果・配布・障害情報を掲載します。" }
-  disableSpecial1stPost = true   # 先頭だけ大きくなるのを無効
-  ShowReadingTime = false         # 読了時間非表示
-  ShowShareButtons = false
-
 
 [menu]
   [[menu.main]]
