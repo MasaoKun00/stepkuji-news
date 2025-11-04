@@ -28,7 +28,7 @@ defaultContentLanguage = "ja"
 
   [[menu.main]]
     name = "使い方"
-    url = "/docs/"
+    url = "/guide/"
     weight = 5
 
   [[menu.main]]
