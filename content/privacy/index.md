@@ -3,6 +3,7 @@ title: "プライバシーポリシー"
 url: "/privacy/"
 summary: "ステップくじ（jp.stepkuji.app）の個人情報の取り扱いについて。取得する情報・利用目的・第三者提供・広告・Health Connect/Google Fitの扱い・権利行使方法などを定めます。"
 lastmod: 2025-11-05
+draft: false
 ---
 
 ## 要約
