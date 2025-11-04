@@ -18,3 +18,13 @@ defaultContentLanguage = "ja"
     name = "すべての記事"
     url = "/archives"
     weight = 10
+
+  [[menu.main]]
+    name = "使い方"
+    url = "/docs/"
+    weight = 5
+
+  [[menu.main]]
+    name = "プライバシー"
+    url = "/privacy/"
+    weight = 90
