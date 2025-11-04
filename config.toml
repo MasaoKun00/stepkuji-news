@@ -4,6 +4,8 @@ title = "ステップくじ | 運営からのお知らせ"
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 
+buildFuture = true
+
 [pagination]
   pagerSize = 10
 
@@ -15,7 +17,7 @@ defaultContentLanguage = "ja"
   ShowPostNavLinks = true
   homeInfoParams = { Title = "運営からのお知らせ", Content = "更新・抽選結果・配布・障害情報を掲載します。" }
 
-[params.editPost]     # 右上に「編集」リンク
+[params.editPost]
   URL = "https://github.com/MasaoKun00/stepkuji-news/edit/main"
   Text = "GitHubでこのページを編集"
   appendFilePath = true
