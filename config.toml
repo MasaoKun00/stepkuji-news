@@ -4,6 +4,10 @@ title = "ステップくじ | 運営からのお知らせ"
 theme = "PaperMod"
 defaultContentLanguage = "ja"
 
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
+
 [pagination]
   pagerSize = 10
 
