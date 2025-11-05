@@ -6,5 +6,5 @@ slug: "points"
 weight: 30
 tags: ["使い方","ポイント","広告"]
 draft: false
-aliases: ["/posts/earn-points/","/points/"]
+aliases: ["/posts/earn-points/","/points-and-ads/"]
 ---
