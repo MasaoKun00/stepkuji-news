@@ -38,3 +38,9 @@ buildFuture = true
     name = "プライバシー"
     url = "/privacy/"
     weight = 90
+   
+  [[menu.main]]
+    name = "利用規約"
+    url  = "/terms/"
+    weight = 91
+    
