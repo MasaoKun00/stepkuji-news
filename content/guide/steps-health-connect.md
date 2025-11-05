@@ -6,7 +6,7 @@ weight: 20
 tags: ["使い方","Health Connect","歩数"]
 draft: false
 # 旧URLからのリダイレクト（ここは実際の旧パスに合わせて）
-aliases: ["/posts/steps-health-connect/", "/steps/"]
+aliases: ["/posts/steps-health-connect/", "/steps-health-connect/"]
 ---
 
 ## 1. 連携の前提
