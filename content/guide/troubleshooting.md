@@ -1,4 +1,3 @@
-<!-- content/guide/troubleshooting.md -->
 ---
 title: "トラブルシュート"
 summary: "歩数が増えない・連携できない・広告が出ない等の解決手順。"
@@ -8,6 +7,7 @@ tags: ["使い方","トラブル","Health Connect"]
 draft: false
 aliases: ["/posts/troubleshooting/","/troubleshoot/"]
 ---
+
 ## 1. 歩数が反映されない
 1) 端末設定を確認  
 - **身体活動**（または“フィットネスアクティビティ”）の権限を「許可」。  
