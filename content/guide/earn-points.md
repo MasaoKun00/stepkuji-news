@@ -1,4 +1,3 @@
-<!-- content/guide/earn-points.md -->
 ---
 title: "ポイントの貯め方（歩数・広告・シェア）"
 summary: "1000歩=1スロット、広告10pt/そのまま1pt、シェアpt、上限・反映タイミングまで。"
