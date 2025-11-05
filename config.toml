@@ -10,6 +10,7 @@ buildFuture = true
   pagerSize = 10
 
 [params]
+  mainSections = ["posts"]
   defaultTheme = "auto"
   ShowToc = true
   TocOpen  = true
